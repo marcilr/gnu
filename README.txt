@@ -5,6 +5,10 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 
 Filelist
 ========
+gnu.txt
+  GNU's Not Unix!
+  https://en.wikipedia.org/wiki/GNU
+
 links.txt
   GNU related links
 
