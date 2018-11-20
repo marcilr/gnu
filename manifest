@@ -1,0 +1,12 @@
+# manifest
+# Created Mon November 20, 2018
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest file for use by resync script.
+#
+
+
+# -------------------------------------------------------
+# Source                                           Target
+# -------------------------------------------------------
+https://github.com/marcilr/nano.git   nano
