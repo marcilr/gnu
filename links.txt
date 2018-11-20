@@ -1,0 +1,12 @@
+links.txt
+Created Mon November 20, 2018
+By Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+GNU related links
+
+
+Links
+=====
+GNU's Not Unix
+https://en.wikipedia.org/wiki/GNU
