@@ -6,6 +6,13 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
+cron/
+  Automatically run cron jobs in the background at
+  regular intervals by the cron daemon
+
 gnu.txt
   GNU's Not Unix
   GNU is a recursive acronym for "GNU's Not Unix!", chosen
@@ -21,3 +28,7 @@ links.txt
 
 manifest
   Manifest for resync application
+
+nano/
+  The GNU nano text editor
+
