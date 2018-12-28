@@ -1,0 +1,9 @@
+#.gitignore
+# Created Fri Dec 28 13:47:04 AST 2018
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+cron/
+nano/
