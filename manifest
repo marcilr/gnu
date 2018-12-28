@@ -10,4 +10,5 @@
 # --------------------------------------------
 # Source                                Target
 # --------------------------------------------
+ssh://git@github.com/marcilr/cron.git     cron
 ssh://git@github.com/marcilr/nano.git     nano
