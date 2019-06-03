@@ -7,14 +7,14 @@
 
 
 
-# --------------------------------------------
-# Source                                Target
-# --------------------------------------------
+# -------------------------------------------------
+# Source                                  Target
+# -------------------------------------------------
 ssh://git@github.com/marcilr/autotools    autotools
-ssh://git@github.com/marcilr/awk          awk
 ssh://git@github.com/marcilr/cron.git     cron
 ssh://git@github.com/marcilr/diff.git     diff
 ssh://git@github.com/marcilr/editors      editors
+ssh://git@github.com/marcilr/gawk         gawk
 ssh://git@github.com/marcilr/make         make
 ssh://git@github.com/marcilr/nano.git     nano
 ssh://git@github.com/marcilr/sed.git      sed
