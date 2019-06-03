@@ -16,3 +16,4 @@ ssh://git@github.com/marcilr/diff.git     diff
 ssh://git@github.com/marcilr/editors      editors
 ssh://git@github.com/marcilr/make         make
 ssh://git@github.com/marcilr/nano.git     nano
+ssh://git@github.com/marcilr/sed.git      sed
