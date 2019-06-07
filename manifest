@@ -11,6 +11,7 @@
 # Source                                  Target
 # -------------------------------------------------
 ssh://git@github.com/marcilr/autotools    autotools
+https://github.com/marcilr/bash.git       bash
 ssh://git@github.com/marcilr/cron.git     cron
 ssh://git@github.com/marcilr/diff.git     diff
 ssh://git@github.com/marcilr/editors      editors
