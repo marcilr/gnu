@@ -1,0 +1,51 @@
+history.txt
+Created Wed Aug  7 09:15:02 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+history - GNU History Library
+
+
+Tracks/displays commands used on command line.
+
+Usage
+=====
+!n          Refer to command line n.
+            Execute command with given number shown by history
+
+!string     Refer to the most recent command preceding the current
+            position in the history list starting with string.
+--man
+
+
+Examples
+=======
+Run command specified by number displayed by history:
+$ history
+...
+ 2005  history
+ 2006  date
+ 2007  chmod 644 rock-of-gibralter.jpg 
+ 2008  man history
+ 2009  history
+$ 
+
+$ !2006
+date
+Wed Aug  7 09:18:57 AKDT 2019
+$
+
+
+Run last command beginning with d!:
+$ !d
+date
+Wed Aug  7 09:16:45 AKDT 2019
+$
+
+Run last command beginning with c:
+$ !c
+chmod 644 rock-of-gibralter.jpg 
+chmod: cannot access 'rock-of-gibralter.jpg': No such file or directory
+$ 
+
+NOTE: Above is chmod command note finding the specified file.
