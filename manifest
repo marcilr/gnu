@@ -15,6 +15,7 @@ https://github.com/marcilr/bash.git          bash
 ssh://git@github.com/marcilr/cron.git        cron
 ssh://git@github.com/marcilr/diff.git        diff
 ssh://git@github.com/marcilr/editors.git     editors
+ssh://git@github.com/marcilr/find.git        find
 ssh://git@github.com/marcilr/gawk.git        gawk
 ssh://git@github.com/marcilr/make.git        make
 ssh://git@github.com/marcilr/monit.git       monit
