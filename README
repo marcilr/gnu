@@ -37,3 +37,8 @@ nano/
 
 TODO
   Items for gnu
+
+zgrep
+  Search possibly compressed files for a regular expression
+  Used to search *.gz files
+
