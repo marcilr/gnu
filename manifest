@@ -21,3 +21,4 @@ ssh://git@github.com/marcilr/make.git        make
 ssh://git@github.com/marcilr/monit.git       monit
 ssh://git@github.com/marcilr/nano.git        nano
 ssh://git@github.com/marcilr/sed.git         sed
+ssh://git@github.com/marcilr/zgrep.git       zgrep
