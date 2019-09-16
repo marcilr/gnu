@@ -11,3 +11,7 @@ Links
 =====
 GNU's Not Unix
 https://en.wikipedia.org/wiki/GNU
+
+When does `mv` change the timestamp of a file and while does it not?
+Some good details here
+https://unix.stackexchange.com/questions/503233/when-does-mv-change-the-timestamp-of-a-file-and-while-does-it-not
