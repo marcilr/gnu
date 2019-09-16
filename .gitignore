@@ -5,5 +5,16 @@
 # Files for git to ignore.
 #
 .gitignore
+autotools/
+bash/
 cron/
+diff/
+editors/
+find/
+gawk/
+make/
+monit/
 nano/
+sed/
+zgrep/
+
