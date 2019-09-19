@@ -9,6 +9,9 @@ Filelist
 .gitignore
   Files for git to ignore
 
+compression/
+  File or data compression
+
 cron/
   Automatically run cron jobs in the background at
   regular intervals by the cron daemon
